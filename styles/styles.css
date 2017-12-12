@@ -5,5 +5,13 @@ body{
 	height: 100vh;
 	width: 100vw;
 	color: white;
-
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+.blue{
+	color: blue;
 }
